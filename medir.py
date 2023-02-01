@@ -1,4 +1,4 @@
-
+#This code include print sentences in Spanish but it can be customized.
 import time
 import adafruit_dht
 
